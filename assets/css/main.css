@@ -2978,7 +2978,7 @@
 
 		body {
 			padding-top: 6rem;
-			
+		
 		}
 
 	}
@@ -3123,7 +3123,7 @@
 				}
 
 			.wrapper.style2 header p {
-				color: rgba(255, 255, 255, 0.25);
+				color: rgba(255, 255, 255, 0.6);
 			}
 
 		@media screen and (max-width: 1280px) {
