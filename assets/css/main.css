@@ -3047,7 +3047,7 @@
 				left: 0;
 				width: 10%;
 				height: 1px;
-			
+				background-color: rgba(0, 0, 0, 0.125);
 			}
 
 		.wrapper > header p {
