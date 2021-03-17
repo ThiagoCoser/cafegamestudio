@@ -2960,7 +2960,7 @@
 		}
 
 			#header > .logo a {
-				font-size: 3rem;
+				font-size: 4rem;
 				font-weight: 700;
 				color: #FFF;
 				text-decoration: none;
@@ -2968,8 +2968,8 @@
 			}
 
 			#header > .logo span {
-				font-weight: 700;
-				font-size: 2rem;
+				font-weight: 300;
+				font-size: 1rem;
 				display: block;
 				color: rgba(255, 255, 255, 0.65);
 			}
