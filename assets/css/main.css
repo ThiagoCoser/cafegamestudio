@@ -2901,7 +2901,7 @@
 /* Header */
 
 	body {
-		background-color: #18191e;
+		background-color: #1e1f23;
 		padding-top: 8rem;
 	}
 
@@ -2947,7 +2947,7 @@
 			}
 
 	#header {
-		color: #a6a6a6;
+		color: #1e1f23;
 		cursor: default;
 		position: relative;
 		text-align: center;
