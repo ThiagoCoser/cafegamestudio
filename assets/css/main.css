@@ -2915,7 +2915,10 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-		
+			-moz-transition: opacity 1.5s ease-in-out, visibility 1.5s;
+			-webkit-transition: opacity 1.5s ease-in-out, visibility 1.5s;
+			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
+			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
 			background-image: url(../../images/bg2.png);
 			background-attachment: fixed;
@@ -2930,7 +2933,7 @@
 			width: 100%;
 			z-index: -1;
 			visibility: visible;
-			opacity: 1;
+			opacity: 0;
 		}
 
 			@media screen and (max-width: 980px) {
