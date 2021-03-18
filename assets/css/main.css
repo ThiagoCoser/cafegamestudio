@@ -1912,6 +1912,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		width: 50%;
 
 	}
 
@@ -1938,7 +1939,7 @@
 		.button.fit {
 			display: block;
 			margin: 0 0 1rem 0;
-			width: 100%;
+			width: 50%;
 		}
 
 		input[type="submit"].small,
@@ -1981,7 +1982,7 @@
 			button,
 			.button {
 				padding: 0;
-				width: 100%;
+				width: 50%;
 			}
 
 		}
@@ -3122,7 +3123,7 @@
 			}
 
 				.wrapper.style2 header h2:after {
-					background-color: rgba(255, 255, 255, 0.125);
+					background-color:#1e1f23;
 				}
 
 			.wrapper.style2 header p {
