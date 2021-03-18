@@ -2060,7 +2060,8 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #62ae62;
+				background-color: #ae7162;
+				vertical-align: middle;
 			}
 
 			input[type="submit"].special:active,
