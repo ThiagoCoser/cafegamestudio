@@ -1913,8 +1913,6 @@
 		text-transform: uppercase;
 		white-space: nowrap;
 
-		vertical-align: middle;
-		width: 20%;
 	}
 
 		input[type="submit"].icon,
@@ -1940,7 +1938,7 @@
 		.button.fit {
 			display: block;
 			margin: 0 0 1rem 0;
-			width: 50%;
+			width: 100%;
 		}
 
 		input[type="submit"].small,
@@ -1983,7 +1981,7 @@
 			button,
 			.button {
 				padding: 0;
-				width: 50%;
+				width: 100%;
 			}
 
 		}
