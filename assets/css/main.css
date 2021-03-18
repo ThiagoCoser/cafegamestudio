@@ -2387,6 +2387,18 @@
 			margin: 0 !important;
 		}
 
+
+
+	.image.fit2 {
+					  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+		}
+
+
+
+
 		.image img {
 			display: block;
 		}
