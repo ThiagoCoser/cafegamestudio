@@ -1912,7 +1912,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		width: 20rem;
+		width: 25rem;
 		font-size: 1.2rem;
 
 	}
@@ -2396,6 +2396,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
 		}
 
 
@@ -2937,7 +2938,7 @@
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
 			background-image: url(../../images/bg.jpg);
-			background-attachment: fixed;
+
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
