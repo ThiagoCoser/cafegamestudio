@@ -1614,7 +1614,7 @@
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 8pt;
 			}
 
 		}
@@ -1622,7 +1622,7 @@
 		@media screen and (max-width: 480px) {
 
 			html {
-				font-size: 12pt;
+				font-size:8pt;
 			}
 
 		}
@@ -1912,7 +1912,7 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		width: 10rem;
+		width: 20rem;
 		font-size: 1.2rem;
 
 	}
@@ -3008,7 +3008,7 @@
 		}
 
 			#header > .logo a {
-				font-size: 1rem;
+				font-size: 3rem;
 			}
 
 	}
