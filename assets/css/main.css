@@ -1892,7 +1892,6 @@
 	input[type="button"],
 	button,
 	.button {
-		vertical-align: middle;
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
@@ -1913,7 +1912,6 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-
 	}
 
 		input[type="submit"].icon,
@@ -1939,7 +1937,7 @@
 		.button.fit {
 			display: block;
 			margin: 0 0 1rem 0;
-			width: 100%;
+			width: 50%;
 		}
 
 		input[type="submit"].small,
@@ -2060,8 +2058,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ae7162;
-				vertical-align: middle;
+				background-color: #62ae62;
 			}
 
 			input[type="submit"].special:active,
