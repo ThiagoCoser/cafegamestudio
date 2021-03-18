@@ -1682,6 +1682,7 @@
 				width: 50%;
 				height: 1px;
 				background-color: rgba(0, 0, 0, 0.125);
+
 			}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2938,7 +2939,7 @@
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
 			background-image: url(../../images/bg.jpg);
-
+			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -3048,11 +3049,13 @@
 		background: #FFF;
 		padding: 2rem;
 		margin: 0;
+
 	}
 
 		.wrapper > header h2 {
 			position: relative;
 			padding-bottom: .75rem;
+
 		}
 
 			.wrapper > header h2:after {
@@ -3065,6 +3068,7 @@
 				width: 10%;
 				height: 1px;
 				background-color:#1e1f23;
+
 			}
 
 		.wrapper > header p {
@@ -3077,6 +3081,7 @@
 
 		.wrapper > header.special {
 			padding: 4rem 2rem;
+
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3094,7 +3099,7 @@
 			}
 
 				.wrapper > header h2 {
-					font-size: 1rem;
+					font-size: 2rem;
 				}
 
 					.wrapper > header h2:after {
