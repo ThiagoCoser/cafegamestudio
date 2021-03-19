@@ -2392,14 +2392,6 @@
 
 
 
-	.image.fit2 {
-					  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-		}
-
 
 
 
@@ -2436,6 +2428,22 @@
 			.image.fit img {
 				width: 100%;
 			}
+
+	.image.fit2 {
+	display: block;
+			margin: 0 0 2rem 0;
+			width: 100%;
+		}
+
+			.image.fit2 img {
+  margin-left: auto;
+  margin-right: auto;
+		width: 50%;
+			}
+
+
+
+
 
 		.image.main {
 			display: block;
